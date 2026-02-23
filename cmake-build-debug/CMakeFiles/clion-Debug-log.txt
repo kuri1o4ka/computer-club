@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /home/kuri1o4ka/Documents/CppProject/CompClub Select CMakeLists.txt
